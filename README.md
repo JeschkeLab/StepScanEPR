@@ -1,7 +1,7 @@
 # StepScanEPR
 
 StepscanEPR is a methodology for acquiring EPR spectra with high time resolution by exploiting the concept 
-of modulation-excitation spectroscopy, borrowing ideas from stepscan FTIR.
+of modulation-excitation spectroscopy and borrowing ideas from stepscan FTIR.
 
 The setup consisted of an Arduino Uno board connected to the SWA (Sweep Advance) output for trigger counting. 
 A trigger is sent by the console for each measured point, either in the field or the time dimension. 

@@ -11,3 +11,4 @@ The LabVIEW code, Arduino program, and electronic schematics are provided.
 The project was developed during a PhD project at ETH in the group of Gunnar Jeschke.
 
 When you use StepscanEPR in your work, please cite the following publication:
+10.26434/chemrxiv-2025-kn67f
